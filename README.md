@@ -14,8 +14,8 @@ The accuracy evaluation results are as follows:
 
 I conducted up to 2000 training steps, but I believe that if there is sufficient memory available, increasing the steps further can enhance the accuracy.
 
-|제목|내용|설명|
+|Precision|Recall|f1-score|
 |:---|---:|:---:|
-|왼쪽정렬|오른쪽정렬|중앙정렬|
-|왼쪽정렬|오른쪽정렬|중앙정렬|
-|왼쪽정렬|오른쪽정렬|중앙정렬|
+|0.85|0.95|0.87|
+|0.90|0.84|0.87|
+| | |0.87|
