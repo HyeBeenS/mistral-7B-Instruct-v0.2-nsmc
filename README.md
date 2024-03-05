@@ -4,14 +4,12 @@ I have uploaded files where the process up to the inference test is in the fine-
 
 The accuracy evaluation results are as follows:
 
-precision    recall  f1-score   support
-
-           0       0.85      0.90      0.87       492
-           1       0.90      0.84      0.87       508
-
-    accuracy                           0.87      1000
-   macro avg       0.87      0.87      0.87      1000
-weighted avg       0.87      0.87      0.87      1000
-
+|   |Precision|Recall|f1-score|Support|
+|---|------|---|---|
+| 0 |0.85|0.95|0.87|492|
+| 1 |0.90|0.84|0.87|508|
+|accuracy|    |    |0.87|1000|
+|macro avg|0.87|0.87|0.87|1000|
+|weighted avg|0.87|0.87|0.87|0.87|1000|
 
 I conducted up to 2000 training steps, but I believe that if there is sufficient memory available, increasing the steps further can enhance the accuracy.
