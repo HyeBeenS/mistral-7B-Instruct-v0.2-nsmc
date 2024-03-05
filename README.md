@@ -1,6 +1,7 @@
 This is the sentiment classification code for nsmc using the Mistral-7B-Instruct-v0.2 model.
 
 I have uploaded files where the process up to the inference test is in the fine-tuning file, and the evaluation process is executed in the test file.
+I have uploaded the files in two versions: .py and .ipynb. The code content within the files is identical.
 
 The accuracy evaluation results are as follows:
 
