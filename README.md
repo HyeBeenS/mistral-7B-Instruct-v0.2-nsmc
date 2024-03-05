@@ -19,3 +19,12 @@ I conducted up to 2000 training steps, but I believe that if there is sufficient
 |0.85|0.95|0.87|
 |0.90|0.84|0.87|
 | | |0.87|
+
+|       | Precision | Recall | F1-Score | Support |
+|-------|-----------|--------|----------|---------|
+| **0** | 0.85      | 0.90   | 0.87     | 492     |
+| **1** | 0.90      | 0.84   | 0.87     | 508     |
+|       |           |        |          |         |
+| **Accuracy** |           |        | **0.87**     | **1000**   |
+| **Macro Avg** | 0.87      | 0.87   | 0.87     | 1000    |
+| **Weighted Avg** | 0.87      | 0.87   | 0.87     | 1000    |
