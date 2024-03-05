@@ -17,6 +17,8 @@ The accuracy evaluation results are as follows:
 
 I conducted up to 2000 training steps, but I believe that if there is sufficient memory available, increasing the steps further can enhance the accuracy.
 
-When using the Mistral model, it is important to note that you need to include the special tokens [INST] and [/INST] when creating prompt commands. An example is as follows:
-[INST] You need to determine whether a review written by a user is positive or negative. [/INST]
+When using the Mistral model, it is important to note that you need to include the special tokens [INST] and [/INST] when creating prompt commands. 
+
+An example is as follows:
+  [INST] You need to determine whether a review written by a user is positive or negative. [/INST]
 
